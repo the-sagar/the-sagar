@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Sagar Padekar](https://www.linkedin.com/in/sagar-padekar-56818599/), currently finished Masters at Trinity College Dublin in Future Networked Systems.
+I'm [Sagar Padekar](https://www.linkedin.com/in/sagar-padekar-56818599/)
 
 My areas of interests/expertise are - 
 - Distributed Systems
